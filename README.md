@@ -1,5 +1,4 @@
-# SaiprasanthSDSU.github.io
-
+# Dataset from awesome-datascience github
 ## URL: 
 Dataset [link](https://msropendata.com/datasets/0a83fb6f-a759-4a17-aaa2-fbac84577318)
 ## Introduction:
